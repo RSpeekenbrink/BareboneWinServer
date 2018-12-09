@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BareboneWinServer", "BareboneWinServer\BareboneWinServer.vcxproj", "{9659CEFE-5494-46B6-89EB-A9851C1D7180}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BareboneWinClient", "BareboneWinClient\BareboneWinClient.vcxproj", "{157535E9-E5B2-4659-AF52-4B84412B9D17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{9659CEFE-5494-46B6-89EB-A9851C1D7180}.Release|x64.Build.0 = Release|x64
 		{9659CEFE-5494-46B6-89EB-A9851C1D7180}.Release|x86.ActiveCfg = Release|Win32
 		{9659CEFE-5494-46B6-89EB-A9851C1D7180}.Release|x86.Build.0 = Release|Win32
+		{157535E9-E5B2-4659-AF52-4B84412B9D17}.Debug|x64.ActiveCfg = Debug|x64
+		{157535E9-E5B2-4659-AF52-4B84412B9D17}.Debug|x64.Build.0 = Debug|x64
+		{157535E9-E5B2-4659-AF52-4B84412B9D17}.Debug|x86.ActiveCfg = Debug|Win32
+		{157535E9-E5B2-4659-AF52-4B84412B9D17}.Debug|x86.Build.0 = Debug|Win32
+		{157535E9-E5B2-4659-AF52-4B84412B9D17}.Release|x64.ActiveCfg = Release|x64
+		{157535E9-E5B2-4659-AF52-4B84412B9D17}.Release|x64.Build.0 = Release|x64
+		{157535E9-E5B2-4659-AF52-4B84412B9D17}.Release|x86.ActiveCfg = Release|Win32
+		{157535E9-E5B2-4659-AF52-4B84412B9D17}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
